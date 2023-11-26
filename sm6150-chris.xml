@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <project path="device/qcom/sm6150" name="device_qcom_steppe" remote="sm6150-chris" />
+
+</manifest>

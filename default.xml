@@ -8,15 +8,15 @@
           sync-tags="false"
           review="codelinaro.org"/>
 
-  <remote name="bengal-chris"
+  <remote name="sm6150-chris"
           fetch="ssh://git@github.com/chrisl7"
-          revision="LA.UM.9.15.2.r1" />
+          revision="LA.UM.9.1.r1" />
 
   <default remote="clo"/>
 
   <include name="system.xml"/>
   <include name="vendor.xml"/>
   <include name="obsolete.xml"/>
-  <include name="bengal-chris.xml"/>
+  <include name="sm6150-chris.xml"/>
 
 </manifest>

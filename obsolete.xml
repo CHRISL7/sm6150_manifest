@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-<remove-project name="device/qcom/qssi_32"/>
-<remove-project name="device/qcom/qssi_32go"/>
-<remove-project name="platform/vendor/qcom/bengal_32" />
-<remove-project name="platform/vendor/qcom/bengal_32go" />
-<remove-project name="platform/vendor/qcom/bengal" />
-<remove-project name="platform/vendor/qcom/lito" />
-<remove-project name="platform/vendor/qcom/kona" />
-<remove-project name="kernel/build" />
+<remove-project name="platform/vendor/qcom/atoll" />
+<remove-project name="platform/vendor/qcom/msmnile" />
+<remove-project name="platform/vendor/qcom/steppe" />
+<remove-project name="platform/vendor/qcom/skunk" />
+<remove-project name="platform/vendor/qcom/thulium" />
 
 </manifest>
